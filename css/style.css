@@ -5,7 +5,7 @@
 * License: https://creativecommons.org/licenses/by/3.0/
 */
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'NanumBarunGothic', sans-serif;
   line-height: 1.6;
   background-color: #ffffff;
   overflow-x: hidden;
@@ -69,8 +69,8 @@ a.text-primary {
     color: #F85D23 !important; }
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
-  font-family: "Playfair Display", serif;
-  color: #black; }
+  font-family: 'NanumBarunGothic', serif;
+  color: black; }
 
 .btn {
   padding-top: 15px;
