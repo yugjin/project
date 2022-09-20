@@ -14,3 +14,11 @@
 #container p.submit input.text {
 	height: 40px; line-height: 40px; color: #fff; background-color: transparent; cursor: pointer;
 }
+
+#container p.register {
+    clear: both;
+    padding-top: 30px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+}
