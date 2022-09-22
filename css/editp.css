@@ -53,6 +53,18 @@ div.container1 section.profilemenu div.title h1 {
     font-weight: bold;
 }
 
+div.container1 section.profilemenu div.title a.suc {
+    padding: 0 12px;
+    border-radius: 15px;
+    line-height: 30px;
+    width: 60px;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    background-color: #F85D23;
+}
+
 div.container1 section.profilemenu div.profile1 h3 {
     line-height: 20px;
     color: #292929;
